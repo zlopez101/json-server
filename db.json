@@ -1,7 +1,7 @@
 {
     "recipes": [
         {
-            "_id": 1,
+            "id": 1,
             "url": "https://www.halfbakedharvest.com/spanakopita-melt/",
             "name": "party size spanakopita melt",
             "source": "HalfBakedHarvest",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "_id": 2,
+            "id": 2,
             "url": "https://www.halfbakedharvest.com/chipotle-chicken-and-avocado-rice-soup/",
             "name": "slow cooker chipotle chicken and avocado rice soup",
             "source": "HalfBakedHarvest",
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "_id": 3,
+            "id": 3,
             "url": "https://www.halfbakedharvest.com/buffalo-chicken-pizza/",
             "name": "sheet pan buffalo chicken pizza",
             "source": "HalfBakedHarvest",
